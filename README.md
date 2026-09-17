@@ -13,11 +13,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Final-year Bachelor of Computer Science @ **Hanoi University of Science and Technology (HUST)** *(2022 – 2026)*
-- 📈 **Academic Record:** **GPA: 3.61 / 4.0** | Academic Achievement Scholarship (Type A - 2023)
-- 🔭 **Interests:** AI Engineering, ML Systems, MLOps, Computer Vision & Real-Time Data Streaming Pipelines
+- 🎓 **Education:** Bachelor of Computer Science @ **Hanoi University of Science and Technology (HUST)** *(2022 – 2026)*
+- 🔭 **Interests:** AI Engineering, Computer Vision, AI Agents, Real-Time Data Streaming Pipelines 
 - 💡 **Specialization:** Building end-to-end AI and data pipelines — from data collection, feature engineering, model evaluation to real-time inference and containerized streaming infrastructures.
-- 💬 **Ask me about:** Python, PyTorch, Computer Vision, Kafka–Spark data processing, and FastAPI backends
 - 📫 **How to reach me:** [phunh1901@gmail.com](mailto:phunh1901@gmail.com)
 
 ---
@@ -53,14 +51,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phunh1901&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phunh1901&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-
----
 
 <div align="center">
   <sub>⭐ Thanks for visiting my GitHub profile!</sub>
