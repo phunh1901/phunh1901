@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Phu Nguyen 👋
+# Hi there, I'm Phu Ngo 👋
 **AI & Software Engineering Enthusiast | Student @ HUST 🎓**
 
 [![GitHub followers](https://img.shields.io/github/followers/phunh1901?style=social)](https://github.com/phunh1901)
