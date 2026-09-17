@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Bachelor of Computer Science @ **Hanoi University of Science and Technology (HUST)** *(2022 – 2026)*
+- 🎓 **Education:** Bachelor of Computer Science @ **Hanoi University of Science and Technology (HUST)**
 - 🔭 **Interests:** AI Engineering, Computer Vision, AI Agents, Real-Time Data Streaming Pipelines 
 - 💡 **Specialization:** Building end-to-end AI and data pipelines — from data collection, feature engineering, model evaluation to real-time inference and containerized streaming infrastructures.
 - 📫 **How to reach me:** [phunh1901@gmail.com](mailto:phunh1901@gmail.com)
