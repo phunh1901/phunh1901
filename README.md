@@ -3,7 +3,6 @@
 # Hi there, I'm Ngo Hoang Phu 👋
 **AI Engineer | Computer Science @ HUST 🎓**
 
-[![GitHub followers](https://img.shields.io/github/followers/phunh1901?style=social)](https://github.com/phunh1901)
 [![Email](https://img.shields.io/badge/Email-phunh1901%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:phunh1901@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Ha_Noi%2C_Vietnam-orange?logo=google-maps&logoColor=white)](https://maps.google.com)
 
